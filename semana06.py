@@ -9,7 +9,7 @@ st.write("Numeros pares entre 0 y 100:")
 st.write(pares_0_100)
 
 #Ejercicio 5 con boton
-st.makdown("""
+st.markdown("""
     <style>
     div.stButton > button{
         background-color: #8B0000;
